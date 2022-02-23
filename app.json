@@ -32,6 +32,6 @@
             "value": "https://raw.githubusercontent.com/Asnavs/poinui/main/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "repository": "https://github.com/Asnavs/poinui",
     "stack": "container"
 }
